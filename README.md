@@ -147,14 +147,14 @@ for start play you can use some of the makefile rules, or execute the file ``so_
 <img width="1005" alt="screen3" src="https://user-images.githubusercontent.com/80905157/203793611-129f2c7c-4f70-4af1-81d5-2fc2c6c09bea.png">
 
 ## Source
-- 
--
--
--
--
--
--
+##### 42 mlx
+
+- [42 mlx docs](https://harm-smits.github.io/42docs/libs/minilibx)
+- [42 mlx blog](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)
+- [Basic introduction, tutorials, tips & tricks](https://gontjarow.github.io/MiniLibX/)
+
 ## Summary
-This has been my favorite project so far, coding my own 2d game was so much fun :)
+
+> This has been my favorite project so far, coding my own 2d game was so much fun :)
 	
 November  24th, 2022
