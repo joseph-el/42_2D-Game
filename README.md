@@ -22,10 +22,8 @@ https://user-images.githubusercontent.com/80905157/203806808-a1c92f60-c556-488f-
 * [About](#about-project)
 * [Game rules](#game-rules)
 * [How it works](#how-it-works)
-* [How to play](#how-to-play)
 * [Controls](#control)
-* [Installation](#installation)
-* [Gameplay](#gameplay)
+* [Installation](#cloning-the-repositories)
 * [Source](#source)
 * [Screenshot ](#screenshot)
 * [Summary](#summary)
@@ -140,10 +138,25 @@ for start play you can use some of the makefile rules, or execute the file ``so_
 | ``make re`` | makes ``fclean`` and ``make`` again. |
 
 ## Screenshot 
+<h1 align="center">
+	screen 1 
+</h1>
 <img width="1236" alt="screen1" src="https://user-images.githubusercontent.com/80905157/203793326-1bb17850-9624-43ae-a643-efb66dfb1910.png">
+<h1 align="center">
+	screen 2 
+</h1>
 <img width="574" alt="Screen2" src="https://user-images.githubusercontent.com/80905157/203793580-4f65d96d-769d-4204-b8d8-977537f8e6b5.png">
+<h1 align="center">
+	screen 3 
+</h1>
 <img width="1005" alt="screen4" src="https://user-images.githubusercontent.com/80905157/203793646-e80d3d7e-572c-4415-8ff5-6eb98f0d5cd5.png">
+<h1 align="center">
+	screen 4 
+</h1>
 <img width="1236" alt="screen5" src="https://user-images.githubusercontent.com/80905157/203793713-036189d3-6671-452b-8da5-1c55300fc74c.png">
+<h1 align="center">
+	screen 5 
+</h1>
 <img width="1005" alt="screen3" src="https://user-images.githubusercontent.com/80905157/203793611-129f2c7c-4f70-4af1-81d5-2fc2c6c09bea.png">
 
 ## Source
