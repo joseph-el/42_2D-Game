@@ -3,16 +3,35 @@
 </h1>
 
 <p align="center">
-	<b><i> 2D GAME 🌒</i></b><br>
+	<b><i> 2D game, Get familiar with the minilibix_42 library and UI in general🌒 </i></b><br>
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/joseph-el/42_so_long_2D?color=lightblue" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/joseph-el/42_so_long_2D?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joseph-el/42_so_long_2D?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joseph-el/42_so_long_2D?color=green" />
-	
+
+</p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/joseph-el/42_so_long_2Dgame?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joseph-el/42_so_long_2Dgame?color=0088ff" />
+    </a>
+  </p>
+ 
 <h3 align="center">
-	
-https://user-images.githubusercontent.com/80905157/203806808-a1c92f60-c556-488f-8b65-5a0f9e4a82ed.mp4
+
+![2D](https://user-images.githubusercontent.com/80905157/203984552-3c06c0ef-e930-441a-82ee-d8b8c4c3a4b6.jpeg)
  
 </h3>
  
@@ -59,7 +78,7 @@ Once that was done I filled a struct ``t_data`` with some basic map attributes l
 
 ### Cloning the repositories
 ```shell
-git clone https://github.com/joseph-el/so_long.git
+git clone https://github.com/joseph-el/42_so_long_2Dgame.git
 cd so_long
 make
 ```
@@ -136,6 +155,15 @@ for start play you can use some of the makefile rules, or execute the file ``so_
 | ``make clean`` | Deletes all object files of tools.a and so_long/so_long_bonus|
 | ``make fclean`` | Deletes tools.a and the object files of tools.a and the so_long/so_long_bonus|
 | ``make re`` | makes ``fclean`` and ``make`` again. |
+
+
+## Gameplay
+
+<h1 align="center">
+	
+https://user-images.githubusercontent.com/80905157/203806808-a1c92f60-c556-488f-8b65-5a0f9e4a82ed.mp4
+	
+</h1>
 
 ## Screenshot 
 <h1 align="center">
