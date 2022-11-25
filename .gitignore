@@ -1,0 +1,7 @@
+## Editor
+.vscode/*
+.DS_STORE
+*.o
+*.lib
+*.out
+*.dSYM/
